@@ -1,0 +1,33 @@
+{
+  "name": "suntitaque",
+  "version": "1.0.0",
+  "description": "Provide full precision and rounded display string for BN.js instances",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FayWatsica/suntitaque.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --exit"
+  },
+  "keywords": [
+    "BN",
+    "non",
+    "consectetur",
+    "Ethereum",
+    "Token",
+    "web3"
+  ],
+  "author": "CristalHoeger",
+  "license": "MIT",
+  "dependencies": {
+    "bn.js": "^5.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.1"
+  },
+  "bugs": {
+    "url": "https://github.com/FayWatsica/suntitaque.git/issues"
+  },
+  "homepage": "https://github.com/FayWatsica/suntitaque.git"
+}
